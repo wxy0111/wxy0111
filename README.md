@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 <!--
 **wxy0111/wxy0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
