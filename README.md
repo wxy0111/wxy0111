@@ -20,13 +20,13 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats-wxy0111.vercel.app/api?username=wxy0111" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-wxy0111.vercel.app/api/top-langs/?username=wxy0111&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177&row=1" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wxy0111" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=wxy0111&row=1" />
 </div>
 
 ## 🛠️Languages:
