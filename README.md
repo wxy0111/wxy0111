@@ -12,12 +12,39 @@
 
 ![Snake animation](https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg)
 
-### I'm WANG XIANGYU
+# 👋 Hi, I'm WANG XIANGYU
 
-- 😄 Phd Student in [Kyushu University](https://www.kyushu-u.ac.jp/en/), [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html).
-- 🌱 Currently studying in Fukuoka, Japan.
-- 🔭 Currently working on Edge computing in IoT device, Machine learning application in office building, Wireless sensing, MPC control. 
-- ⚡ Fun fact: Data Analysis📊
+<p align="center">
+  <img src="https://img.shields.io/badge/PhD%20Student-Kyushu%20University-4b86b4" alt="PhD Student"/>
+  <img src="https://img.shields.io/badge/Location-Fukuoka,%20Japan-ff7f50" alt="Location"/>
+</p>
+
+## 🔬 Research Focus
+
+- 🏢 **Edge Computing** in IoT devices for smart buildings
+- 🤖 **Machine Learning** applications in building energy systems
+- 📡 **Wireless Sensing** technologies for occupancy detection
+- 🎛️ **MPC Control** & **Optimization Models** for energy efficiency
+- 📊 **Data Analysis** for building performance evaluation
+
+## 🎓 Education
+
+- 🧑‍🎓 PhD Candidate at [Kyushu University](https://www.kyushu-u.ac.jp/en/), [Sustainable Building Energy Systems Laboratory](https://sbes.kyushu-u.ac.jp/)
+- 🔍 Researching optimization-based control strategies for smart buildings
+- 🌱 Focusing on developing energy-efficient algorithms through mathematical optimization models
+
+## 💡 Current Projects
+
+- Developing multi-objective optimization models for HVAC systems
+- Implementing robust MPC controllers with real-time constraint handling
+- Creating energy prediction frameworks using hybrid AI/optimization approaches
+
+## 🛠️ Skills
+
+- **Programming**: Python, MATLAB, R
+- **Optimization**: Linear/Non-linear Programming, Model Predictive Control
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
+- **IoT**: Sensor Networks, Edge Computing Frameworks
 
 ## 📈Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
