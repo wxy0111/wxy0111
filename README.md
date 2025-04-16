@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/Location-Fukuoka,%20Japan-ff7f50" alt="Location"/>
 </p>
 
+## 🎓 Education
+
+- 🧑‍🎓 Phd Student in [Kyushu University](https://www.kyushu-u.ac.jp/en/), [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html).
+- 📍 Currently studying in Fukuoka, Japan.
+- 🔍 Researching optimization-based control strategies for smart buildings
+- 🌱 Focusing on developing energy-efficient algorithms through mathematical optimization models
+
 ## 🔬 Research Focus
 
 - 🏢 **Edge Computing** in IoT devices for smart buildings
@@ -26,12 +33,6 @@
 - 📡 **Wireless Sensing** technologies for occupancy detection
 - 🎛️ **MPC Control** & **Optimization Models** for energy efficiency
 - 📊 **Data Analysis** for building performance evaluation
-
-## 🎓 Education
-
-- 🧑‍🎓 PhD Candidate at [Kyushu University](https://www.kyushu-u.ac.jp/en/), [Sustainable Building Energy Systems Laboratory](https://sbes.kyushu-u.ac.jp/)
-- 🔍 Researching optimization-based control strategies for smart buildings
-- 🌱 Focusing on developing energy-efficient algorithms through mathematical optimization models
 
 ## 💡 Current Projects
 
