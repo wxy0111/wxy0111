@@ -11,8 +11,6 @@
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg)
-<img src="https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-![Snake animation](https://github.com/wxy0111/wxy0111/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
