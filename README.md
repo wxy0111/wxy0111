@@ -39,12 +39,13 @@
 - Implementing robust MPC controllers with real-time constraint handling
 - Creating energy prediction frameworks using hybrid AI/optimization approaches
 
-## 🛠️ Skills
-
-- **Programming**: Python, MATLAB, R
-- **Optimization**: Linear/Non-linear Programming, Model Predictive Control
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
-- **IoT**: Sensor Networks, Edge Computing Frameworks
+### Tech Stack
+- ![Static Badge](https://img.shields.io/badge/python3-yello) ![Static Badge](https://img.shields.io/badge/linux-blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2)
+- ![Static Badge](https://img.shields.io/badge/REST%20API-red) ![Static Badge](https://img.shields.io/badge/HTML-teal)
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ## 📈Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
