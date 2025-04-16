@@ -56,6 +56,6 @@
 
 
 ## 📧Contact me:
-- Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wang.xiangyu.425@s.kyushu-u.ac.jp)
+- Email: [![Email](https://img.shields.io/badge/wang.xiangyu.425@s.kyushu-u.ac.jp-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wang.xiangyu.425@s.kyushu-u.ac.jp)
 
 
