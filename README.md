@@ -9,7 +9,7 @@
   </p>
 </div>
 
-</div>
+
 <table>
   <tr>
     <td width="50%">
@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-
+</div>
 # 👋 Hi, I'm WANG XIANGYU
 
 <p align="center">
