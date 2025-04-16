@@ -24,7 +24,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
 </div>
-## 👋 Hi, I'm WANG XIANGYU
+
+# 👋 Hi, I'm WANG XIANGYU
 
 <p align="center">
   <img src="https://img.shields.io/badge/PhD%20Student-Kyushu%20University-4b86b4" alt="PhD Student"/>
