@@ -11,7 +11,7 @@
 ![](https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg)
 
 ## 📈Statistics
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--   profile-night-rainbow.svg -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
