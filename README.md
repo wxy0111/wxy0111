@@ -12,7 +12,7 @@
 
 ## 📈Statistics
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-wxy0111.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--   profile-night-rainbow.svg -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
