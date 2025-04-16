@@ -15,19 +15,6 @@
 ## 📈Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--   profile-night-rainbow.svg -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-wxy0111.vercel.app/api?username=wxy0111" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-wxy0111.vercel.app/api/top-langs/?username=wxy0111&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
-</div>
-
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wxy0111" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=wxy0111&row=1" />
-</div>
 
 ## 🛠️Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
