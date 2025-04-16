@@ -12,6 +12,13 @@
 
 ![Snake animation](https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg)
 
+### I'm WANG XIANGYU
+
+- 😄 Phd Student in [Kyushu University](https://www.kyushu-u.ac.jp/en/), [Sustainable Building Energy Systems Laboratory](https://energy.arch.kyushu-u.ac.jp/index.html).
+- 🌱 Currently studying in Fukuoka, Japan.
+- 🔭 Currently working on Edge computing in IoT device, Machine learning application in office building, Wireless sensing, MPC control. 
+- ⚡ Fun fact: Data Analysis📊
+
 ## 📈Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![wxy0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxy0111&show_icons=true&theme=radical&count_private=true)
