@@ -8,7 +8,9 @@
     <a href="https://space.bilibili.com/32466993"><img src="https://img.shields.io/badge/Bilibili-46_followers-f27596?style=flat&logo=bilibili" alt="Bilibili"></a>
   </p>
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+</div>
 <table>
   <tr>
     <td width="50%">
@@ -20,9 +22,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wxy0111/wxy0111/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-</div>
+
 
 # 👋 Hi, I'm WANG XIANGYU
 
