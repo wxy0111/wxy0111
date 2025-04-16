@@ -14,7 +14,8 @@
 
 ## 📈Statistics
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy0111&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![wxy0111's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxy0111&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxy0111)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
