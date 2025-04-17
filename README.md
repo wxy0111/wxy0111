@@ -4,7 +4,9 @@
     <a href="https://github.com/wxy0111" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=420&height=70&lines=wxy0111.github.io" alt="Typing SVG" /></a>
 
   <p>
-    <a href="https://github.com/wxy0111"><img src="https://img.shields.io/badge/GitHub-1_followers-333?style=flat&logo=github" alt="GitHub"></a>
+   <a href="https://github.com/wxy0111">
+  <img src="https://img.shields.io/github/followers/wxy0111?style=social" alt="GitHub followers">
+</a>
     <a href="https://space.bilibili.com/32466993"><img src="https://img.shields.io/badge/Bilibili-46_followers-f27596?style=flat&logo=bilibili" alt="Bilibili"></a>
   </p>
 </div>
