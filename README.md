@@ -6,7 +6,6 @@
   <p>
    <a href="https://github.com/wxy0111">
   <img src="https://img.shields.io/github/followers/wxy0111?style=social" alt="GitHub followers">
-</a>
     <a href="https://space.bilibili.com/32466993"><img src="https://img.shields.io/badge/Bilibili-46_followers-f27596?style=flat&logo=bilibili" alt="Bilibili"></a>
   </p>
 </div>
