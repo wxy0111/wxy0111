@@ -72,7 +72,7 @@
 </div>
 
 ## 📧 Contact me:
-<p align="center">
+<p align="left">
   <a href="mailto:wang.xiangyu.425@s.kyushu-u.ac.jp">
     <img src="https://img.shields.io/badge/wang.xiangyu.425@s.kyushu--u.ac.jp-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
