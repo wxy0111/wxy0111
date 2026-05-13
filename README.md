@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](https://raw.githubusercontent.com/wxy0111/wxy0111/main/assets/Bottom_up.svg)
 
 <div align="center">
     <a href="https://github.com/wxy0111" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=420&height=70&lines=wxy0111.github.io" alt="Typing SVG" /></a>
